@@ -115,6 +115,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\Documents\IPC144\IPC144\Workshop\w01\w1_home.c" />
+    <ClCompile Include="..\..\..\Documents\IPC144\IPC144\Workshop\w01\w1_lab.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
